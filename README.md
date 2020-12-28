@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about me -->
 **About Me:**
 
-- I’m currently student at __[Rwanda Coding Academy](https://rca.ac.rw)__.
+- I’m currently student at __[Rwanda Coding Academy](http://rca.ac.rw)__.
 - I’m currently learning __Javascript__, __Java__, & Pyhton.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
