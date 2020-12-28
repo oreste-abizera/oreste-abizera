@@ -5,7 +5,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Dev.to](https://img.shields.io/badge/-Dev.to-000?style=flat&logo=dev&logoColor=white)](https://zachayers.io)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-000?style=flat&logo=dev&logoColor=white)](https://dev.to/oreste)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/AbizeraOreste)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/oreste-abizera)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oreste-abizera-151bb9194/)
