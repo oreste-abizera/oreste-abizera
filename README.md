@@ -44,5 +44,5 @@ You can use the website to generate badges: https://shields.io/
 ---
 
 <a href="https://github.com/oreste-abizera/github-readme-stats">
-   <img width="60%" alt="Oreste's github stats" src="https://github-readme-stats.vercel.app/api?username=oreste-abizera&show_icons=true&hide_border=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oreste-abizera&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
