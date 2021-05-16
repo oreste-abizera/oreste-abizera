@@ -1,4 +1,5 @@
 <!-- Your title -->
+
 ## Hello, I'm Oreste Abizera!
 
 <!-- Your badges
@@ -13,13 +14,14 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about me -->
+
 **About Me:**
 
-- I’m currently student at __[Rwanda Coding Academy](http://rca.ac.rw)__.
-- I’m currently learning __Javascript__, __Java__, & Python.
+- I’m currently student at **[Rwanda Coding Academy](http://rca.ac.rw)**.
+- I’m currently learning **Javascript**, **Java**, & **Python**.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
-- How to reach me: __oresteabizera11@gmail.com__
+- How to reach me: **oresteabizera11@gmail.com**
 
 ---
 
@@ -43,6 +45,6 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-|My overall statistics|Top most languages |
-|------------------|-------------|
-|![Oreste Abizera's github stats](https://github-readme-stats.vercel.app/api?username=oreste-abizera&show_icons=true&hide_border=true&&count_private=true")|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oreste-abizera&langs_count=100&count_private=true)|
+| My overall statistics                                                                                                                                      | Top most languages                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| ![Oreste Abizera's github stats](https://github-readme-stats.vercel.app/api?username=oreste-abizera&show_icons=true&hide_border=true&&count_private=true") | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oreste-abizera&langs_count=100&count_private=true) |
