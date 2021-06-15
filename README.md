@@ -45,6 +45,10 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=oreste-abizera)](https://github.com/oreste-abizera/github-profile-trophy)
+
+---
+
 | My overall statistics                                                                                                                                      | Top most languages                                                                                                             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ![Oreste Abizera's github stats](https://github-readme-stats.vercel.app/api?username=oreste-abizera&show_icons=true&hide_border=true&&count_private=true") | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oreste-abizera&langs_count=100&count_private=true) |
