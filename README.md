@@ -45,7 +45,7 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oreste-abizera)](https://github.com/oreste-abizera/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=oreste-abizera&margin-w=50&margin-h=40)](https://github.com/oreste-abizera/github-profile-trophy)
 
 ---
 
