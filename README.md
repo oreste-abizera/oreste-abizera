@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://dev.to/oreste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oreste" height="30" width="40" /></a>
 <a href="https://twitter.com/abizeraoreste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abizeraoreste" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oreste-abizera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oreste-abizera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oreste-abizera-151bb9194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oreste-abizera-151bb9194" height="30" width="40" /></a>
 <a href="https://codesandbox.com/oreste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="oreste" height="30" width="40" /></a>
 </p>
 
