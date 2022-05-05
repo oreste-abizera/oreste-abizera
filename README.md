@@ -1,34 +1,29 @@
-<!-- Your title -->
+<h1 align="center">Hi 👋, I'm Abizera Oreste</h1>
+<h3 align="center">A passionate frontend developer from Rwanda</h3>
 
-## Hello, I'm Oreste Abizera!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oreste-abizera&label=Profile%20views&color=0e75b6&style=flat" alt="oreste-abizera" /> </p>
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+<p align="left"> <a href="https://twitter.com/abizeraoreste" target="blank"><img src="https://img.shields.io/twitter/follow/abizeraoreste?logo=twitter&style=for-the-badge" alt="abizeraoreste" /></a> </p>
 
-[![Dev.to](https://img.shields.io/badge/-Dev.to-000?style=flat&logo=dev&logoColor=white)](https://dev.to/oreste)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/AbizeraOreste)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/oreste-abizera)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oreste-abizera-151bb9194/)
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-&nbsp;
+- 👯 I’m looking to collaborate on **anything**
 
-<!-- Talking about me -->
+- 📝 I regularly write articles on [https://dev.to/oreste](https://dev.to/oreste)
 
-**About Me:**
+- 💬 Ask me about **Java, Javascript and CSS**
 
-- I’m currently student at **[Rwanda Coding Academy](http://rca.ac.rw)**.
-- I’m currently learning **Javascript**, **Java**, & **Python**.
-- I’m looking to collaborate on anything!
-- Ask me about anything, I am happy to help.
-- How to reach me: **oresteabizera11@gmail.com**
+- 📫 How to reach me **oresteabizera11@gmail.com**
 
----
+- 📄 Know about my experiences [https://www.linkedin.com/in/oreste-abizera-151bb9194/](https://www.linkedin.com/in/oreste-abizera-151bb9194/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oreste-abizera&margin-w=50&margin-h=40)](https://github.com/oreste-abizera/github-profile-trophy)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/oreste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oreste" height="30" width="40" /></a>
+<a href="https://twitter.com/abizeraoreste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abizeraoreste" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oreste-abizera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oreste-abizera" height="30" width="40" /></a>
+<a href="https://codesandbox.com/oreste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="oreste" height="30" width="40" /></a>
+</p>
 
----
-
-| My overall statistics                                                                                                                                      | Top most languages                                                                                                             |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![Oreste Abizera's github stats](https://github-readme-stats.vercel.app/api?username=oreste-abizera&show_icons=true&hide_border=true&&count_private=true") | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oreste-abizera&langs_count=100&count_private=true) |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
